@@ -1,1 +1,3 @@
-vspeed = 3;
+speed = 3;
+direction = 90;
+alarm[0] = 60;
